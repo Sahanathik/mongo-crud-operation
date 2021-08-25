@@ -1,0 +1,4 @@
+{
+    "connectionString":"mongodb://localhost:27017/foodparkDB",
+    "sms_api_key" : "72ksYXFPrwO1ljULn0IRWD5NZp39gzTGxBQ8C6AetKhqbfVimafsPOoIR0vhkCp1AYKeLu5Ntz8lnrbS"
+}
